@@ -5,8 +5,8 @@ var shop = adventure('regex-adventure-ua')
 
 var lessons = [
   { title: '1 Літерали', file: './problems/literally' }, //done
-  { title: '2 Початок строки', file: './problems/anchor_start' }, //done
-  { title: '3 Кінець строки', file: './problems/anchor_end' }, //done
+  { title: '2 Початок стрічки', file: './problems/anchor_start' }, //done
+  { title: '3 Кінець стрічки', file: './problems/anchor_end' }, //done
   { title: '4 Підмножини', file: './problems/char_class' }, //done
   { title: '5 Заперечення та підмножини', file: './problems/negated_char_class' }, //done
   { title: '6 Метасимволи', file: './problems/meta' }, //done
