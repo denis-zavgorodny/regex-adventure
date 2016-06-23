@@ -12,8 +12,8 @@ var lessons = [
   { title: '6 Метасимволи', file: './problems/meta' }, //done
   { title: '7 Квантифікатори', file: './problems/quantifier' }, //done
   { title: '8 Розділення', file: './problems/split' }, //done
-  { title: '9 Захват', file: './problems/capture' }, //done
-  { title: '10 Захват з пошуком кінця слова', file: './problems/capture_breakword' }, //done
+  { title: '9 Захоплення', file: './problems/capture' }, //done
+  { title: '10 Захоплення з пошуком кінця слова', file: './problems/capture_breakword' }, //done
   { title: '11 Оператор альтернативи (логічне або)', file: './problems/alteration' }, //done
   { title: '12 Групи квантифікаторiв', file: './problems/quantified_group' }, //done
   { title: '13 Лапки в регулярних виразах', file: './problems/quotes' }, //done
